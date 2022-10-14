@@ -1,4 +1,6 @@
 const GitHubIds = [
-  "rohittp0",
   "hishamthajudheen"
+  "rohittp0"
+  "AazimAnish"
+  "naaji-navas"
 ];
