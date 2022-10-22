@@ -5,6 +5,7 @@ const GitHubIds = [
   "AazimAnish",
   "saikrshna",
   "naaji-navas",
+  "DareDevilStudios",
   "Thrisha1",
   "sonykmartin",
   "nayanprasad",
