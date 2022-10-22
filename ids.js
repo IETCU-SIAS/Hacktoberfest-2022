@@ -5,6 +5,16 @@ const GitHubIds = [
   "AazimAnish",
   "saikrshna",
   "naaji-navas",
+  "pravar25",
+  "sreehari2003",
+  "DareDevilStudios",
+  "Thrisha1",
+  "sonykmartin",
+  "nayanprasad",
+  "sunithvs",
+  "shaheem-pp",
+  "sanumuhammedc",
+  "Faheemvc",
   "uhsinmh",
   "nihal350",
   "adilmuhammedy",
@@ -13,4 +23,7 @@ const GitHubIds = [
   "kaku8",
   "NidhinPPramod",
   "berlianfatimah"
+  "R4HUL-ROY",
+  "kaku8",
+  "NidhinPPramod"
 ];
