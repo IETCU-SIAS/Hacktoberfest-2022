@@ -3,6 +3,14 @@ const GitHubIds = [
   "hishamthajudheen",
   "rohittp0",
   "AazimAnish",
+  "saikrshna",
   "naaji-navas",
   "faheemvc",
+  "uhsinmh",
+  "nihal350",
+  "adilmuhammedy",
+  "hinasahammed",
+  "sabith-nadakkavil",
+  "kaku8"
+  "NidhinPPramod",
 ];
