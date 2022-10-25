@@ -30,5 +30,6 @@ const GitHubIds = [
   "kaku8",
   "NidhinPPramod",
   "Rithingithub",
-  "Anushka-Singh1"
+  "Anushka-Singh1",
+  "mayankwalia"
 ];
