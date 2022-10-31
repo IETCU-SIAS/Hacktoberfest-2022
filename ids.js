@@ -33,6 +33,7 @@ const GitHubIds = [
   "Rithingithub",
   "Anushka-Singh1",
   "mayankwalia",
+  "ArshadAchuthodika",
   "sanumuhammed",
   "nvadakkan20",
   "AjnasNB",
