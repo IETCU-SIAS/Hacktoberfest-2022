@@ -33,6 +33,9 @@ const GitHubIds = [
   "Rithingithub",
   "Anushka-Singh1",
   "mayankwalia",
+  "ArshadAchuthodika",
+  "sanumuhammed",
   "nvadakkan20",
-  "ArshadAchuthodika"
+  "AjnasNB",
+  "vaishnav-0"
 ];
